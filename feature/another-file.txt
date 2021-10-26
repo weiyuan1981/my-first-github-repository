@@ -1,3 +1,5 @@
-another file in feature-1 barnch
+This line was modified in feature-2 branch
 
 this file is modified locally
+
+This was added in feature-2 branch
